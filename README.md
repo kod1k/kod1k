@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @kod1k
-- 👀 I’m interested in application development, and similar topics!
+
